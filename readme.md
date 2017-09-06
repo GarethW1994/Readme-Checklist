@@ -5,7 +5,11 @@ Documenting your applications is important because you want those who'll use you
 ## Application Usage
 
 + Application Usage is important because here you'll list steps for consumers on how to use your application. Whether it be:
-- creating an account
-- logging in
-- or navigating around your application. 
+
+- Creating an account, Logging In and/or Signing Out.
+- Navigating around your application.
+- What information you need from the consumer.
+- How to view information.
+- What the purpose are of certain buttons, filters, links etc.
+
 + All these steps must be listed so that they can understand the flow of data within your application and how to get the best out of it, in solving whatever problem they might have.
