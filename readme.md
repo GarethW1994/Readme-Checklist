@@ -19,6 +19,10 @@ Documenting your applications is important because you want those who'll use you
 
 + Application Usage for developers is equally as important as the usage for Consumers because unlike Consumers they won't just use the final product/service, Developers want to set up your application locally on their machine and understand how the code and data flow works. So it's important to list steps for Developers to go about setting up your application locally. Thinks to include are:
 
+### Getting Started
+- Forking the repository to their Github account.
+- Cloning the repository on their local machine.
+
 ### Installations
 - Installation Steps for Technologies and Platforms.
 - Installation Steps for Stack that were used.
@@ -52,4 +56,4 @@ Documenting your applications is important because you want those who'll use you
 
 ## Conclusion
 
-- All these steps and documentation for your application are important to help people who want use your application, to better understand what it is your application does and how to use it. Developers can extend the functionality of your application and it's important for them to know how your application works behind the scene. 
+- All these steps and documentation for your application are important to help people who want use your application, to better understand what it is your application does and how to use it. Developers can extend the functionality of your application and it's important for them to know how your application works behind the scene.
